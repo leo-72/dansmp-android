@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestAppDans</string>
+    <string name="txt_login">LOGIN</string>
+    <string name="edt_password">Password</string>
+    <string name="edt_username">Username</string>
+    <string name="btn_login">Login</string>
+    <string name="txt_job_list">Job List</string>
+    <string name="search_hint">Search\n</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas cursus urna id vulputate imperdiet. Donec blandit elit vitae felis venenatis facilisis. Praesent fermentum neque ut tellus euismod eleifend. Mauris fringilla elit non sapien accumsan, molestie congue lorem suscipit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras elementum fringilla feugiat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce lacus nisi, bibendum quis fermentum et, imperdiet sit amet odio. Etiam non pellentesque ligula. Suspendisse potenti. Pellentesque sagittis eros elit, eu fringilla augue semper non.</string>
+    <string name="go_to_company_website"><u>Go to company website</u></string>
+</resources>
